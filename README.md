@@ -25,8 +25,8 @@
 
 
 ## Screenshots
-![Homepage](./home.png)
-![Menu page](./dessert-page.png)
+![Homepage](./images/home.png)
+![Menu page](./images/dessert-page.png)
 
 
 ## Project Status
