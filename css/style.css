@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    height: 100%;
+    margin: 0;
+}
+
+h1, h2, h3 {
+    color: white;
+    text-align: center;
+    font-family: "Kanit";
+}
+
+.topnav {
+    background-color: #e19831;
+    overflow: hidden;
+}
+
+.topnav a{
+    float:left;
+    color: #0a1e2e;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+    font-variant: petite-caps;
+    flex: auto;
+}
+
+.topnav a:hover {
+    background-color: #e6b771;
+}
+
+.topnav a.active {
+    background-color:white;
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    max-width: 100%;
+    margin: 15px 20px 15px 20px;
+}
